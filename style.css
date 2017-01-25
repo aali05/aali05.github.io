@@ -1,0 +1,25 @@
+*{ fontfamily: Calibri;
+}
+h1{
+  font-family: "Calibri";
+  font-size: 64px;
+  text-decoration: underline;
+  text-align: center;
+}
+img{
+  height: 250px;
+  width: 250px;
+  position: absolute;
+  right: 100px;
+  transform: rotate(8deg);
+  border: 3px ridge black;
+}
+body {
+  background-image: url("background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+#address{
+text-align: center;
+}
